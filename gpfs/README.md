@@ -10,3 +10,5 @@ linux_v1.6.py 批量启动节点
 my_reboot.py 掉线重启
 
 bnb.py 批量分发bnb
+
+ABI.py 统计挖掘的gps
