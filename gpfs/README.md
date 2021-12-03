@@ -8,3 +8,5 @@ jk.py 每10分钟爆块提醒
 linux_v1.6.py 批量启动节点
 
 my_reboot.py 掉线重启
+
+bnb.py 批量分发bnb
