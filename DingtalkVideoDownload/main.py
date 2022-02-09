@@ -5,10 +5,6 @@ import ffmpeg
 import re
 
 data = {}
-global key_tmp
-global data
-global video
-
 
 def downloadvideo(url, keyname):
     filename = data.get(keyname)
